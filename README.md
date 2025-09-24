@@ -1,4 +1,5 @@
 My own understanding
+
 #1. Fibo
   -What it does is I initialized x with a value of 0 and y with 1
     -I did a "for loop" and print out x and initialize z with a value of x + y and after that changes the value of x equal to that of y and y equal to z
